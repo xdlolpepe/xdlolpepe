@@ -1,9 +1,8 @@
-# Gustavo
+# Gustavo Alberto Cruz
 
 # print("Hello World")
 
-
-[linkedin](https://linkedin.com/in/gustavo-cruz-932145279)
+![linkedin](https://linkedin.com/in/gustavo-cruz-932145279)
 
 ## Habilidades
 - Lenguajes de programación:
