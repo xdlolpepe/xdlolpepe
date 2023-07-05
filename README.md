@@ -22,4 +22,4 @@
 - ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - ![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlolpepe&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlolpepe&theme=blue-red)
