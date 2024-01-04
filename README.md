@@ -24,3 +24,4 @@
 - ![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlolpepe&theme=blue-green)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
